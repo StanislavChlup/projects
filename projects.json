@@ -1,0 +1,36 @@
+[
+	{		"name": "minesweeper",
+		"src": "https://minesweeper-studna.netlify.app/",
+		"description": "recreation of minesweeper"
+	},
+	{
+		"name": "3d renderer",
+		"src": "https://3d-render-html.netlify.app/",
+		"description": "renderer of wireframe rotating and changing colors automatically"
+	},
+	{
+		"name": "3d renderer sliders",
+		"src": "https://3d-render-html-sliders.netlify.app/",
+		"description": "renderer of wireframe rotatable using sliders"
+	},
+	{
+		"name": "3d zobrazování",
+		"src": "https://3d-zobrazeni.netlify.app/",
+		"description": "document about 3d rendering"
+	},
+	{
+		"name": "3d zobrazování",
+		"src": "https://3d-zobrazeni.netlify.app/",
+		"description": "document about 3d rendering"
+	},
+	{
+		"name": "3d scratch project",
+		"src": "https://scratch.mit.edu/projects/808776848/",
+		"description": "3d rendering in scratch"
+	},
+	{
+		"name": "scratch raycaster",
+		"src": "https://scratch.mit.edu/projects/808257730",
+		"description": "raycaster made in scratch"
+	}
+]
