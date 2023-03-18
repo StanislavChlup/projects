@@ -1,7 +1,7 @@
 [
 	{
 		"name": "minesweeper",
-		"src": "https://minesweeper-studna.netlify.app/",
+		"src": "https://stanislavchlup.github.io/minesweeper/",
 		"description": "recreation of minesweeper"
 	},
 	{
@@ -17,11 +17,6 @@
 	{
 		"name": "3d zobrazování",
 		"src": "https://stanislavchlup.github.io/3d-zobrazovani",
-		"description": "document about 3d rendering"
-	},
-	{
-		"name": "3d zobrazování",
-		"src": "https://3d-zobrazeni.netlify.app/",
 		"description": "document about 3d rendering"
 	},
 	{
