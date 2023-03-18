@@ -1,11 +1,12 @@
 [
-	{		"name": "minesweeper",
+	{
+		"name": "minesweeper",
 		"src": "https://minesweeper-studna.netlify.app/",
 		"description": "recreation of minesweeper"
 	},
 	{
 		"name": "3d renderer",
-		"src": "https://3d-render-html.netlify.app/",
+		"src": "https://stanislavchlup.github.io/3d-renderer-01/",
 		"description": "renderer of wireframe rotating and changing colors automatically"
 	},
 	{
